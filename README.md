@@ -1,4 +1,4 @@
-<img src="https://c0.wallpaperflare.com/preview/111/43/764/code-coder-codes-coding.jpg" alt="NewImage" width="10000" height="200">
+<img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/144AF/production/_123091138_deepmind1-1.jpg" alt="NewImage" width="10000" height="200">
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
 <h3 align="center">A passionate java full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
