@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java full stack**
 
-- 🤝 I’m looking for help with [StudentManagementSystem](https://github.com/scanurag/StudentManagementSystem)
+- 🤝 I’m looking for help with [FoodFrenzy]([https://github.com/scanurag/StudentManagementSystem](https://github.com/scanurag/FoodFrenzy))
 
 - 👨‍💻 All of my projects are available at [https://github.com/scanurag?tab=repositories](https://github.com/scanurag?tab=repositories)
 
