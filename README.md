@@ -50,7 +50,7 @@
 
 <h3 align="left">Support:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/scanurag">
+  <a href="https://buymeacoffee.com/1122anuragg">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scanurag" />
   </a>
 </p>
