@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java full stack**
 - 🤝 I’m looking for help with [FoodFrenzy](https://github.com/scanurag/FoodFrenzy)
-- 👨‍💻 All of my projects are available at [https://github.com/scanurag?tab=repositories](https://github.com/scanurag?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://anuragsingh.22web.org)
 - 💬 Ask me about **anything**
 - 📫 How to reach me **scanurag@gmail.com**
 
