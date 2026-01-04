@@ -56,19 +56,12 @@
 </p>
 <br><br>
 
+<!-- Fixed Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scanurag&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scanurag&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=scanurag&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scanurag&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=scanurag&theme=dracula" alt="Streak Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scanurag&" alt="Streak Stats" />
-</p>
-
-<!-- Optional: Add trophies if you want a bit more flair -->
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scanurag&theme=flat&margin-w=15" alt="Trophies" />
-</p> -->
