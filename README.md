@@ -12,13 +12,13 @@
 - 🔭 I’m currently working on **Java Full Stack projects**  
 - 🌱 I’m currently learning **Spring Boot, React, and Python for automation**  
 - 🤝 I’m looking for help with <a href="https://github.com/scanurag/FoodFrenzy" target="_blank">FoodFrenzy</a>  
-- 👨‍💻 All of my projects are available at <a href="https://anuragsingh.22web.org" target="_blank">https://anuragsingh.22web.org</a>  
+- 👨‍💻 All of my projects are available at 
 - 💬 Ask me about **Java, Spring, Databases, Python, or anything tech!**  
 - 📫 How to reach me: **scanurag@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/anurag-singh-8a2420178/" target="_blank">
+
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/scanurag" target="_blank">
